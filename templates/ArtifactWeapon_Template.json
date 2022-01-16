@@ -7,10 +7,10 @@
 			"chat":"",
 			"unidentified":""
 		},
-		"weight":{{WeightValue}},
-		"price":{{PriceValue}},
+		"weight":"{{WeightValue}}",
+		"price":"{{PriceValue}}",
 		"identifiedName":"{{Name}}",
-		"cl":{{CL}},
+		"cl":"{{CL}}",
 		"aura":{
 			"custom":true,
 			"school":"{{Aura}}"
@@ -19,5 +19,5 @@
 		"useCustomTag":false,
 		"equipmentType":"weapon"
 	},
-	"img":"systems/ffd20/icons/skills/yellow_22.jpg"
+	"img":"systems/clff20/icons/skills/yellow_22.jpg"
 }

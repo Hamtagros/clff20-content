@@ -4,7 +4,7 @@
   "flags": {
     "exportSource": {
       "world": "content-repo",
-      "system": "ffd20",
+      "system": "clff20",
       "coreVersion": "0.7.9",
       "systemVersion": "0.77.0"
     }

@@ -104,7 +104,7 @@
 - Added changelog.md
 - Added module.json
 
-## Imported change log from orginal ffd20 system
+## Imported change log from orginal clff20 system
 
 ## 0.1.4
 

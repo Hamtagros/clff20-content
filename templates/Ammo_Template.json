@@ -7,10 +7,10 @@
 			"chat":"",
 			"unidentified":""
 		},
-		"weight":{{WeightValue}},
-		"price":{{PriceValue}},
+		"weight":"{{WeightValue}}",
+		"price":"{{PriceValue}}",
 		"identifiedName":"{{Name}}",
-		"cl":{{CL}},
+		"cl":"{{CL}}",
 		"aura":{
 			"custom":true,
 			"school":"{{Aura}}"
@@ -19,5 +19,5 @@
 		"useCustomTag":false,
 		"subType":"ammo"
 	},
-	"img":"systems/ffd20/icons/items/weapons/bolt.png"
+	"img":"systems/clff20/icons/items/weapons/bolt.png"
 }
