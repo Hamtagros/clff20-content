@@ -7,10 +7,10 @@
 			"chat":"",
 			"unidentified":""
 		},
-		"weight":"{{WeightValue}}",
-		"price":"{{PriceValue}}",
+		"weight":{{WeightValue}},
+		"price":{{PriceValue}},
 		"identifiedName":"{{Name}}",
-		"cl":"{{CL}}",
+		"cl":{{CL}},
 		"aura":{
 			"custom":true,
 			"school":"{{Aura}}"
